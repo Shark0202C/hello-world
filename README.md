@@ -1,6 +1,5 @@
 # hello-world
 
-hola chicos :)
+Hello guys :)
 
-soy un sujeto muy aburrido y antisocial mi sueño es crear un videojuego de mundo abierto :)
-me encantan las hamburguesas y el helado de chocolate
+I am a very boring and antisocial subject my dream is to create an open world video game :) I love hamburgers and chocolate ice cream.
